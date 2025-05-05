@@ -1,3 +1,4 @@
+# Surf Report Application - Fetches and analyzes surf conditions
 import os
 import requests
 from dotenv import load_dotenv
